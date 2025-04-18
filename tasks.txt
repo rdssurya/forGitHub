@@ -1,5 +1,0 @@
-I want to learn few tech stacks
-- Docker
-- Jenkins
-- Kubernetes
-- PostgreSQL
